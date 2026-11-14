@@ -1,1 +1,1 @@
-# Procesamiento-de-im-genes
+# Procesamiento-de-imagenes
